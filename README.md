@@ -35,5 +35,9 @@ python classifier.py
 - matplotlib
 - seaborn
 
+## Screenshot
+![Output](screenshot.png)
+
+
 ## Developer
 Mayar Yasser | DecodeLabs Batch 2026
